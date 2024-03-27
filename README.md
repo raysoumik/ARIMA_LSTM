@@ -1,5 +1,6 @@
 # ARIMA_LSTM
-This repository is created as part of our collaborative research on development of ARIMA-LSTM hybrid model with Random forest techique for input lag selection: An hybrid model technique for predicting volatile price index series.
+This repository is created as part of a collaborative research on development of ARIMA-LSTM hybrid model with Random forest techique for input lag selection: An hybrid model technique for predicting volatile price index series.
+It is a step-by-step process to create a hybrid statistical and then machine learning model through different statistical assumptions.
 
 ## Description of package needed
 Pandas	1.4.2	https://pandas.pydata.org
