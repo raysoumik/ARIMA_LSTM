@@ -16,4 +16,4 @@ keras	2.8.0	https://keras.io
 TensorFlow	2.8.0	https://www.tensorflow.org 
 
 
-This project is licensed under the terms of the MIT license.
+This ARIMA-LSTM based on random forest technique generally utilized for forecasting complex time series over traditional statistical model.
